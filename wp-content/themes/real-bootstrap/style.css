@@ -56,7 +56,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
  * 9/28/2016 - Patrick
 */
 
-//* {font-size: 2pt;}
+html { font-size: 100%; }
 /**
  * 1.0 - Normalize
  *
